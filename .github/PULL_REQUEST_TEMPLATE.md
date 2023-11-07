@@ -2,11 +2,11 @@
 
 ## As is
 
-Here you should describe in details the feature/problem. (Don't be afraid to write)
+Here you should describe in details the feature/problem. 
 
 ## To be
 
-Here you should describe in details how the solution was implemented. (Don't be afraid to write) 
+Here you should describe in details how the solution was implemented. 
 
 ---
 
@@ -20,11 +20,9 @@ Here you should describe in details how the solution was implemented. (Don't be 
 ## Checklist:
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
-- [ ] I have follows the guidelines in our [Contributing Document][1].
 - [ ] I have made the master rebase in my branch before opening this **PR**.
 - [ ] I have checked to ensure there aren't other open Pull Requests for the same update/change.
 - [ ] I have updated the documentation accordingly.
 - [ ] I have performed a self-review of my own code.
 - [ ] I have written tests to check everything works properly.
 - [ ] I have written tests that have specific and clear objectives.
-- [ ] 
